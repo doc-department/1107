@@ -10,7 +10,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "systemdocs"
+            "shortName": "systemdocs-staging"
         },
         "ga": {
             "token": "UA-32549768-3"
