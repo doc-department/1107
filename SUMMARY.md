@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [User Perspective](user_perspective/README.md)
    * [Farmers](user_perspective/farmers.md)
    * [Builders](user_perspective/app_devs.md)
@@ -31,4 +32,5 @@
    * [Birthday Paradox/Sybil attack](attacks/birthday_paradoxsybil_attack.md)
    * [Keylogger / virus](attacks/keylogger__virus.md)
    * [Store bad data](attacks/store_bad_data.md)
+* [Test Chapter](test_chapter/README.md)
 
