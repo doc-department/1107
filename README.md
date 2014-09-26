@@ -2,7 +2,7 @@
 
 Please see http://maidsafe.net/SystemDocs/ for the online version of this book.
 
-#What is MaidSafe?
+#What is MaidSafe? 
 
 Maidsafe is the company behind project SAFE. Project SAFE (Secure Access For Everyone) aims to replace the current centralised and controlled Internet infrastructure into a fully decentralised and trustless network. Throughout development the projects vision has been **Privacy, Security** and **Freedom** for all the world's population. It is believed that these goals can be instrumental in providing an Internet that is more inclusive and controlled by no individuals or companies.
 
