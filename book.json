@@ -5,7 +5,7 @@
     "github": null,
     "githubHost": "https://github.com/",
     "plugins": [
-        "disqus",
+        "disqus"
 
     ],
     "pluginsConfig": {
