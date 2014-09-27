@@ -6,15 +6,13 @@
     "githubHost": "https://github.com/",
     "plugins": [
         "disqus",
-        "ga"
+
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "systemdocs"
+            "shortName": "1107trink"
         },
-        "ga": {
-            "token": "UA-32549768-3"
-        }
+        
     },
     "links": {
         "home": "https://github.com/maidsafe/systemdocs/tree/master",
