@@ -6,13 +6,11 @@
     "githubHost": "https://github.com/",
     "plugins": [
         "disqus"
-
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "1107trink"
-        },
-        
+            "shortName": "systemdocsstaging"
+        }
     },
     "links": {
         "home": "https://github.com/maidsafe/systemdocs/tree/master",
