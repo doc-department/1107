@@ -1,3 +1,15 @@
+#What is it
+
+#What is MaidSafe?
+
+Maidsafe is the company behind project SAFE. Project SAFE (Secure Access For Everyone) aims to replace the current centralised and controlled Internet infrastructure into a fully decentralised and trustless network. Throughout development the projects vision has been **Privacy, Security** and **Freedom** for all the world's population. It is believed that these goals can be instrumental in providing an Internet that is more inclusive and controlled by no individuals or companies.
+
+The SAFE project is an Open Source piece of software that enables a decentralized Internet platform, called the SAFE Network. MaidSafe autonomously handles static and dynamic data including communications. Data stored on the network is either encrypted and/or cryptographically signed by SAFE connected applications (clients). In either case, the network itself cannot decrypt any of the data. The SAFE network also distributes all data without the need for centralized servers. The idea was originally conceived by David Irvine who leads a small team building the base layer services. The system source code is open source and hosted on [GitHub](https://github.com/maidsafe).
+
+#How does the SAFE system work?
+The SAFE software turns all connected devices into SAFE Network nodes that collectively store data for all system users. SAFE enables any service that is currently available on today's centralized Internet, including; cloud storage, VOIP, video streaming, social networks, app stores and many others without the need for any data centres or centralizing structures. This means a SAFE web application, for example, does not store its user's data on any central server, rather the data is spread across many disks and devices owned and managed by many different users. No one person or corporation has an intact copy of a user's file. An overview short video can be found [here](https://www.youtube.com/watch?v=RdGH40oUVDY)
+
+
 # User Perspective
 
 The SAFE network is a platform that developers can build applications on.
