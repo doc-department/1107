@@ -11,10 +11,8 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "systemdocs"
-        },
-        "ga": {
-            "token": "UA-32549768-3"
         }
+        
     },
     "links": {
         "home": "https://github.com/maidsafe/systemdocs/tree/master",
