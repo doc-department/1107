@@ -5,14 +5,12 @@
     "github": null,
     "githubHost": "https://github.com/",
     "plugins": [
-        "disqus",
-        "ga"
+        "disqus"
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "systemdocs"
+            "shortName": "systemdocsstaging"
         }
-        
     },
     "links": {
         "home": "https://github.com/maidsafe/systemdocs/tree/master",
