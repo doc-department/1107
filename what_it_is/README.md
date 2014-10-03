@@ -1,4 +1,4 @@
-#What is it
+#What it is
 
 #What is MaidSafe?
 
