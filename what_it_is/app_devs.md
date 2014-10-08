@@ -1,5 +1,11 @@
 # Builders
 
+These application developers are referred to as builders on the SAFE network. A typical user application is demonstrated [here](http://blog.maidsafe.net/2014/04/21/safe-network-sample-app-features/).
+
+This example shows an application that enables file storage/sharing and secure messaging. It does not show an important feature, the wallet, although this will be added as development progresses. If using an application like the one shown (which is PC based) the user will notice a wallet. This wallet will contain a digital currency called safecoin. This safecoin balance will increase over time, as reward for providing resources to the network.
+
+It does not seem normal to download a free application and actually earn something at the same time. This may seem even more bizarre as people realise their privacy and security are not only protected, but enhanced in this system. Therefore there is no invasion of privacy or selling of anyone's personal data for profit.
+
 The seemingly eternal question for developers; what's the business model? Is it build applications to support them? or perhaps provide consulting? None of these seem to have much to do with the core skill of the developer, that is coding.  What about commercial applications, how much to charge, what revenue model, how many users...etc... These are all questions start-ups and existing projects must evaluate. What if the answer to both of these questions was, provide something people value and you will be automatically rewarded!
 
 ##Let the network measure the value
