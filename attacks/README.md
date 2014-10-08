@@ -1,4 +1,4 @@
-# Attacks
+# Securing the SAFE Network
 
 We work very hard to ensure system attack vectors are analysed and (now) documented. This is an important aspect of any such system and will require constant updating as more vectors are discovered.
 
