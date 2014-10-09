@@ -2,6 +2,9 @@
 
 * [Introduction](README.md)
 * [What it is](what_it_is/README.md)
+   * [Data on the SAFE Network](what_it_is/data_on_the_safe_network.md)
+   * [Apps and programs on the SAFE Network](what_it_is/apps_and_programs_on_the_safe_network.md)
+   * [Costs of using the SAFE Network](what_it_is/costs_of_using_the_safe_network.md)
    * [Farmers](what_it_is/farmers.md)
    * [Builders](what_it_is/app_devs.md)
    * [Safecoin](what_it_is/safecoin.md)
