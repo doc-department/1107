@@ -1,4 +1,4 @@
-# Security - self encryption
+# Security - Self encryption
 Security of a user's data is critical in the SAFE Network and this is provided by the self encryption process. The SAFE Network requires that data be unrecognisable as data and resistant to decryption, even in the event of an encryption algorithm being compromised.
 
 Self encryption is a used to mix up and encrypt data before it is sent out to the SAFE Network. This process is automatic and happens instantaneously.
