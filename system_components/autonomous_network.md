@@ -1,4 +1,5 @@
 # Autonomous Network
+Autonomous network - A network that is able to self manage, store and manipulate all network data and communications in a manner that requires no human intervention.
 
 There have been many examples of pseudo autonomous (administered by a single set of management rules) networks, these would include networks like Amazon Dynamo and many other internal networks locked behind firewalls. To secure such networks to be able to exist on the public and hostile Internet requires considerable effort. To take this one step further,  **decentralising 100% all components** makes this implementation very challenging.
 

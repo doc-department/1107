@@ -1,4 +1,5 @@
 # Self Encryption
+Self Encryption - A mechanism to obfuscate and encrypt data on the SAFE network in a very secure fashion. This system presents a file-system API to the Drive library that is presented to users as virtual file-system.
 
 The process of self encryption is vitally important to the secure storage and transmission of data on the SAFE network. The open architecture of the network requires that data be unrecognisable as data and resistant to decryption (even in the event of an encryption algorithm being compromised) to provide users with anonymity and security. The reasons of the self encryption process used in MaidSafe are plentiful, but include
 

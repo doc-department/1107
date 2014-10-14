@@ -1,5 +1,7 @@
 # Self Authentication
 
+Self Authentication - A mechanism that enables users to create accounts on the SAFE network and login from any computer without the need or knowledge of third parties.
+
 A critical requirement of a network that will not leak privacy is to allow people to interact with it in a manner that only that person is aware of. Self authentication is a mechanism which provides such a service.
 
 ##Introduction

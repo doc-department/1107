@@ -1,8 +1,26 @@
 # How it works
 
-This section describes the main system components,  these are:
+When a user downloads and installs the MaidSafe client, a Vault is configured on their PC.
 
-1. Self Encryption - A mechanism to obfuscate and encrypt data on the SAFE network in a very secure fashion. This system presents a file-system API to the Drive library that is presented to users as virtual file-system.
-2. Autonomous network - A network that is able to self manage, store and manipulate all network data and communications in a manner that requires no human intervention.
-3. Self Authentication - A mechanism that enables users to create accounts on the SAFE network and login from any computer without the need or knowledge of third parties.
+After joining and signing in to the SAFE Network the user can see a new virtual mounted drive on their PC. Selecting this drive displays their static data that has been encrypted and distributed around other relatively close Vaults.
 
+The user's Vault can also handle dynamic data, for example, communications through a VoIP app.
+
+Before the data is stored on the SAFE Network it is automatically encrypted. The self-encryption process involves breaking up the data into small chunks and then encrypting those chunks with the user's login details and the data itself. This means that if anyone wanted to see the data they would need the user's secure login details and have knowledge about the specific chunk of data. None of this information is held on 3rd party systems or servers.
+
+Typically the user connects to the network through a router. The router uses Reliable UDP (RUDP) protocol to connect to the network. RUDP is a more robust protocol than UDP and TCP. This means that data going through the router can not be corrupted or intercepted.
+
+The user's Vault connects to other Vaults as part of the storage and management of data. The Vaults are constantly checked and ranked using the following criteria:
+
+* **Availability** - how often is the Vault on or off
+* **Storage** - how much storage space is in the Vault
+* **CPU** - how much CPU resource does the Vault have
+* **Bandwidth** - how fast or slow is the access to the Vault
+
+As demand and resources on the SAFE Network changes, the Vaults need to adapt. This adjustment process is done automatically by the Vaults themselves. As the SAFE Network is completely autonomous, it can react quicker and without the need for any human intervention.
+
+When a user provides more storage space than the amount they use on the SAFE Network, they are awarded safecoins. Safecoins are used to purchase additional storage space on other Vaults or to buy apps. The user can see how many safecoins they have by looking at their wallet. The wallet is automatically set up and configured as part of the MaidSafe client installation and sign up process.
+
+App Builders earn safecoins when they create apps and programs for the SAFE Network. As the apps are used, the App Builder earns safecoins.
+
+Core Developers can also be awarded safecoins by contributing to the SAFE Network codebase.
