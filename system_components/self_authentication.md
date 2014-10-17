@@ -1,4 +1,4 @@
-# Self authentication
+# Efficient - Self authentication
 
 The SAFE Network supports self authentication. This is a mechanism that enables users to create accounts on the SAFE Network and log in from any computer without the need or knowledge of third parties.
 
