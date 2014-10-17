@@ -17,3 +17,22 @@ There are a number of technical white papers explaining various parts of the sys
 * [Self Authentication](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/SelfAuthentication.pdf?raw=true)
 * [Distributed Hash Table](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedHashTable.pdf?raw=true)
 * [DHT based NAT traversal](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/DHTbasedNATTraversal.pdf?raw=true)
+
+
+#### References
+
+[ref Network] MaidSafe Network website : www.maidsafe.net
+
+[ref Autonomous] Autonomous Network, David Irvine, Fraser Hutchison, Steve Mucklisch : https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/AutonomousNetwork.pdf?raw=true
+
+[ref Routing] MaidSafe Routing github site : https://github.com/maidsafe/MaidSafe-Routing/wiki
+
+[ref BitCoin] Bitcoin : A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto, https://bitcoin.org/bitcoin.pdf‎
+
+[ref RUDP] MaidSafe RUDP github site : https://github.com/maidsafe/MaidSafe-RUDP/wiki
+
+[ref Persona] Vault Documentation : https://github.com/maidsafe/MaidSafe-Vault/wiki/Documentation
+
+[ref Escrow] The Escrow service for Bitcoin : http://btcrow.com/
+
+[ref BIP 16/17] BIP 16/17 in layman's term : https://bitcointalk.org/index.php?topic=61125.0
