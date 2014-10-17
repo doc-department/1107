@@ -8,34 +8,29 @@ While the coins themselves increase in value, the amount of network services (re
 
 
 ## Safecoin transfer mechanism
-On the SAFE Network, Vaults assume various personas or roles, depending on the requests they receive.  For example, the Data manager persona is responsible for managing the integrity and availability of a given piece of data on the network. A separate persona, the Transaction manager, handles all the safecoin transactions.
+On the SAFE Network, Vaults assume various personas or roles, depending on the requests they receive.  For example, the Data manager persona is responsible for managing the integrity and availability of a given piece of data on the network.
 
-A Transaction manager group is a trusted group of Vaults which are closest to any given transaction identity. The Transaction manager is responsible for the logic that enables transactions to be completed.
+The Transaction manager, another Vault persona, handles all the safecoin transactions. The Transaction manager is responsible for the logic that enables transactions to be completed. A Transaction manager group is a trusted group of Vaults which are closest to any given transaction identity.
 
-The transaction is open and is read-only to public. This allows an upper layer third party broker app to validate that the transaction is happening or completed.
+The transaction is open and is read-only to public. This allows an upper layer Third Party Transaction validators to validate that the transaction is happening or completed.
 
+##An example safecoin transaction
+The following is an example of a transfer of credit from **Alice** to **Bob**.
 
-The procedure of a transfer of credit from **user_A** to **user_B** can be illustrated as follows:
+1.	**Alice** contacts the SAFE Network using a transfer instruction to **Bob**.
 
-1.	**User_A** contacts the SAFE Network using the instruction ***[user_A.Transfer(user_B, amount, wallet)]***
-2.	When the Transaction manager group of **user_A** receives a request, it does the following:
+2.	When **Alice's** Transaction manager group receives the instruction it debits the amount from **Alice's** wallet.
 
-    i)    Debit the amount from **user_A's** wallet
+3. **Alice's** Transaction manager group generates a transaction.<br/>
+At the same time the transaction is highlighted to Third Party Transaction validators.
 
-    ii)   Send a request to the Transaction manager
+4.	**Bob** is notified that a transaction is taking place and acknowledges it.
 
-    iii)  Send a notification to the Transaction validator (escrow)
+5.	**Bob's** Transaction manager group credits **Bob's** wallet.
 
-3.	When the Transaction manager group receives a notification, it does the following:
+6.	**Bob's** Transaction manager group updates the transaction to say the transaction has been completed.<br/>
+At the same time the transaction is validated by the Third Party Transaction validators.
 
-    i)    Send a notification to **user_B's** Vault
-
-    ii)   Create an internal transaction
-4.	When **user_B's** Transaction manager group receives a valid notification, it does the following:
-
-    i)    Send an acknowledgement to the Transaction manager group
-
-    ii)   Credit **user_B's** wallet with the amount
 
 ![Transfer Mechanism](https://raw.githubusercontent.com/maidsafe/Whitepapers/master/resources/transfer_mechanism_diagram.png)
 
