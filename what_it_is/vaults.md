@@ -1,5 +1,5 @@
 # Vaults
-A vault is small piece of local resource on a user's PC, for example, their hard-drive. Each vault fulfils multiple functions as part of the SAFE Network. Their primary role is the storage of encrypted data that has been passed to it from other vaults around the network.
+A vault is small piece of local resource on a user's system, for example, their hard-drive. Each vault fulfils multiple functions as part of the SAFE Network. Their primary role is the storage of encrypted data that has been passed to it from other vaults around the network.
 
 Another function, or persona, of a vault is to manage other vaults. As chunks of data are passed between vaults the manager part of the vault detects and monitors data integrity.
 

@@ -21,7 +21,7 @@
        * [Network churn](system_components/network_churn.md)
        * [Remove administration](system_components/remove_administration.md)
    * [Efficient - Self authentication](system_components/self_authentication.md)
-   * [Vault](how_it_works/vault.md)
+   * [Vaults](how_it_works/vault.md)
    * [Safecoin](what_it_is/safecoin.md)
        * [Safecoin requests and roles](what_it_is/safecoin_requests_and_roles.md)
    * [Wallet](how_it_works/wallet.md)
