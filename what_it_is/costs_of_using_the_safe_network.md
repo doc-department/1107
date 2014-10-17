@@ -1,3 +1,10 @@
 #Costs of using the SAFE Network
 
-Initially there is no cost to use the SAFE Network at least to store data and communicate securely. As the network grows this may change and may require payment (in safecoin - a token-based currency of the SAFE Network) if the user requires more data storage space. If further access is required then safecoin may be purchased to 'buy' more space or pay for non-free applications.
+To use the SAFE Network each user will require safecoins. Safecoins are the token-based currency of the SAFE Network.
+To earn safecoins users can do the following:
+
+* Donating spare computer resources to the network
+* Creating network applications
+* Contributing to the underlying SAFE Network codebase.
+
+It is anticipated that soon after public launch, it will also be possible to buy safecoins from decentralised exchanges that will exist on the SAFE Network.

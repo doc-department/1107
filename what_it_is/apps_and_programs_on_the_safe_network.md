@@ -7,10 +7,12 @@ Here are some examples of the type of apps that can be used on the SAFE Network.
 * Cloud storage
 * Encrypted messaging
 * Web sites
+* VoIP
+* Social networks
 * Document processing of any data provided by any program
 * Distributed databases
 * Document or contract signing
-* Any many more
+* Any existing service that runs on the Internet
 
 The apps and programs contain cryptographically secured key pairs and can use these to automatically sign requests for session management or membership of any network service.
 
