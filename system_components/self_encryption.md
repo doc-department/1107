@@ -1,9 +1,9 @@
 # Security - Self encryption
 Security of a user's data is critical in the SAFE Network and this is provided by the self encryption process. The SAFE Network requires that data be unrecognisable as data and resistant to decryption, even in the event of an encryption algorithm being compromised.
 
-Self encryption is a used to mix up and encrypt data before it is sent out to the SAFE Network. This process is automatic and happens instantaneously.
+Self encryption is used to mix up and encrypt data before it is sent out to the SAFE Network. This process is automatic and happens instantaneously.
 
-As data is saved to a user's virtual hard-drive it is broken up into at least three or more chunks. A data map table is created and for each chunk a hash code (a unique digital finger print) is created and written to the data map table.
+As data is saved to a user's virtual hard-drive it is broken up into at least three chunks. A data map table is created and for each chunk a hash code (a unique digital finger print) is created and written to the data map table.
 
 Each chunk is then encrypted to create random, non-repeating data. Finally, combined with the original hash codes, the chunks are further encrypted. The output hash code of each chunk is then added to the data map table.
 
