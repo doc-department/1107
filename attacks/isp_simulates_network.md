@@ -10,7 +10,7 @@ The purpose of this attack is to force users to lose data that may be important 
 
 ##Attack avoidance
 
-In this case the bootstrapping Maidsafe client or Vault will not be able to connect to the bootstrap Vaults listed in the cache file. This file contains the IP port and public key of bootstrap Vaults. Vaults determined in the last session to be directly connected.
+In this case the bootstrapping MaidSafe client or Vault will not be able to connect to the bootstrap Vaults listed in the cache file. This file contains the IP port and public key of bootstrap Vaults. Vaults determined in the last session to be directly connected.
 
 As the bootstrap session is encrypted with the public key of any bootstrap Vaults then the connect request will fail. The Maidsafe client then detects this is not a valid network.
 
@@ -22,4 +22,4 @@ An ISP's machine pretends to be the user's machine and asks for the bootstrap in
 
 In this case an ISP's machine could request the information and pass it back to the user. That information is encrypted to the user, so an ISP cannot really access it (unless they can break RSA 4096). The user then connects to their closest Vaults. If the closest Vaults are fake they will not be able to process the connect request, which is encrypted to each end. So again this attack fails.
 
-This is only applicable for Maidsafe clients that have not yet logged in. On receipt of the login packet, the Maidsafe client encrypts a close Vault request to the bootstrap Vault. Again this is returned encrypted, so the attack is circumvented.
+This is only applicable for MaidSafe clients that have not yet logged in. On receipt of the login packet, the MaidSafe client encrypts a close Vault request to the bootstrap Vault. Again this is returned encrypted, so the attack is circumvented.
