@@ -22,7 +22,7 @@
        * [Remove administration](system_components/remove_administration.md)
    * [Efficient - Self authentication](system_components/self_authentication.md)
    * [Vaults](how_it_works/vault.md)
-   * [Safecoin](what_it_is/safecoin.md)
+   * [Safecoin](how_it_works/safecoin.md)
        * [Safecoin requests and roles](what_it_is/safecoin_requests_and_roles.md)
    * [Wallet](how_it_works/wallet.md)
    * [Securing the SAFE Network](attacks/README.md)
