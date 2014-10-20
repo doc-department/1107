@@ -1,4 +1,8 @@
 # Wallet
-The SAFE Network wallet is defined as a place holding the credits and the credit change history for an account.
+The SAFE Network wallet is a place that holds the credits and the credit change history for an account.
 
-The safecoin data also served as "wallet" to itself, i.e. a wallet that holds one token only. A user level bookkeeper, holding the list of token one user owns, can be completed as a client only application. That list of token information can be stored in user's local machine or uploaded to the network as encrypted data.
+When a user joins the SAFE Network, they automatically have a wallet. As a reward for providing resources for the SAFE Network, they receive safecoins. These safecoins are stored in the user's wallet.
+
+These safecoins can then be used to buy more resources, applications, or traded for other digital currencies or cash through an exchange service.
+
+A user can view the contents of their wallet through the MaidSafe client.
