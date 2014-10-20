@@ -1,15 +1,15 @@
 # Birthday Paradox/Sybil attack
 
-##Attack Description
+##Attack description
 In this attack, an attacker ﬂoods the network with Vaults it controls, to surround a single Vault with 3 or more malicious Vaults in order to exert control over that Vault.
 
-##Attack Purpose
+##Attack purpose
 
 Using this case, an attacker could request deletion of data chunks by acting as Data managers with the controlled Vaults. This could cause the Data holders to delete the chunks in response to a seemingly legitimate request, and prevent access to that data for legitimate users.
 
 While it is not possible to deliberately position the malicious Vaults around a desired point in the SAFE Network, with around 0.8% of the network’s Vaults under the (temporary) control of an attacker, it is likely the attacker will have at least one Vault surrounded on the SAFE Network, allowing it to exert control over that Vault and reach quorum on such false actions.
 
-##Attack Avoidance
+##Attack avoidance
 
 The SAFE Network requires all requests be processed by at least two groups of Vaults.
 
