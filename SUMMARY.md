@@ -27,7 +27,7 @@
    * [Wallet](how_it_works/wallet.md)
    * [Securing the SAFE Network](attacks/README.md)
        * [ISP simulates network](attacks/isp_simulates_network.md)
-       * [Dishonest Vault Attack](attacks/dishonest_vault_attack.md)
+       * [Dishonest Vault attack](attacks/dishonest_vault_attack.md)
        * [Birthday Paradox/Sybil attack](attacks/birthday_paradoxsybil_attack.md)
        * [Store bad data](attacks/store_bad_data.md)
 * [How to use it](how_to_use_it/README.md)
