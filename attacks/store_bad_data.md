@@ -1,16 +1,16 @@
 # Store bad data
 
-#Attack description
+##Attack description
 
 If an attacker was to subvert the self encryption to attempt to create illegal or immoral data of under 1Mb in size, and named with the hash of its content, then potentially the attacker would be able to store this immoral data on the SAFE Network.
 
 As self encrypted data is highly obfuscated and nearly impossible to decode, then storing data normally would not yield this attack. There is no mechanism to force the data onto any specific Vault, but the data would simply be on the SAFE Network.
 
-#Attack purpose
+##Attack purpose
 
 The purpose of this attack would be purely to discredit the network. It is unlikely any attacker would know where the data was stored and the network does not disclose this information at any rate. In any case an attacker could state they did manage to do this to alarm users.
 
-#Attack avoidance
+##Attack avoidance
 
 Due to not knowing where the immoral data is stored in the SAFE Network, this attack is already thwarted as the attacker could not retrieve it. In itself this is a form of protection, however the SAFE Network also goes a step further.
 
