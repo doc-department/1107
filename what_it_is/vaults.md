@@ -1,5 +1,5 @@
 # Vaults
-The SAFE Network consists of software processes (nodes) which are known as Vaults. Each Vault resides on the hard drive of the user's computer and fulfils multiple functions as part of the network. Their primary role is the storage of encrypted data that has been passed to it from other vaults around the network.
+The SAFE Network consists of software processes (nodes) which are known as Vaults. Each Vault resides on the hard drive of the user's computer and fulfils multiple functions as part of the network. Their primary role is the storage of encrypted data that has been passed to it from other Vaults around the network.
 
 Another function, or persona, of a Vault is to manage other Vaults. As chunks of data are passed between Vaults the manager part of the Vault detects and monitors data integrity.
 
