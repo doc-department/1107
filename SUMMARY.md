@@ -4,7 +4,7 @@
 * [What it is](what_it_is/README.md)
    * [Data on the SAFE Network](what_it_is/data_on_the_safe_network.md)
    * [Apps and programs on the SAFE Network](what_it_is/apps_and_programs_on_the_safe_network.md)
-   * [Costs of using the SAFE Network](what_it_is/costs_of_using_the_safe_network.md)
+   * [Accessing the SAFE Network](what_it_is/costs_of_using_the_safe_network.md)
    * [Vaults](what_it_is/vaults.md)
    * [MaidSafe client](what_it_is/maidsafe_client.md)
    * [Safecoins](what_it_is/safecoins.md)
