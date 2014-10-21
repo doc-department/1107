@@ -1,7 +1,7 @@
 # Safecoins
 Safecoins are the currency of the SAFE Network. They are a token-based scheme that is only used inside the SAFE Network. Safecoins are used for buying additional resources, for example, storage space, or access to network applications. All safecoins are saved in a user's wallet.
 
-When a user provides space for the SAFE Network that is greater than the amount they use, they start to earn safecoins. This is called farming and a user who farms is called a Farmer. With these safecoins they can then buy more storage, exchange them for premium applications, or for for cash using a SAFE Network exchange.
+When a user provides space for the SAFE Network that is greater than the amount they use, they start to earn safecoins. This is called farming and a user who farms is called a Farmer. With safecoins, a user can buy more storage, exchange them for network services, reward content creators, or exchange them for another currency (or cash) using a SAFE Network exchange.
 
 Transfers of safecoins between users is managed automatically by Transaction managers. The Transaction managers are Vault personas whose priority is to ensure that safecoins are digitally signed and are never deleted or corrupted.
 
