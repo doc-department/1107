@@ -1,9 +1,9 @@
 # Network churn
-Network churn is a term to describe Vaults going off line frequently and without notice. This is a situation that favours a quickly reconfiguring network.
+Network churn is a term to describe Vaults going on and offline frequently and without notice. This is a situation that favours a quickly reconfiguring network.
 
 A Vault's distance from an address is a measure of that Vaults authority to make decisions on that address in a particular circumstance.
 
-In terms of data loss, the replicated copies of data are spread across the network in a random and uniform manner. This should put data copies far away from each other.
+In terms of data loss, the replicated copies of data are spread across the network in a random and uniform manner. This should also geographically disperse the data copies for increased redundancy.
 
 The network holds multiple online and offline copies in a way that maintains the most efficient Vaults that are holding data based on its use and the Vaults online times.
 
