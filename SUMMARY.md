@@ -15,7 +15,7 @@
        * [Guaranteed Vault identification](system_components/guaranteed_vault_identification.md)
        * [Accurate p2p network proximity assessment](system_components/accurate_p2p_network_proximity_assessment.md)
        * [Routers with connections both ways](system_components/routers_with_connections_both_ways.md)
-       * [Proof of resources](system_components/proof_of_resources.md)
+       * [Proof of resource](system_components/proof_of_resources.md)
        * [Measurement and reward](system_components/measurement_and_reward.md)
        * [Network churn](system_components/network_churn.md)
        * [Remove administration](system_components/remove_administration.md)

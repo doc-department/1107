@@ -1,4 +1,4 @@
-# Proof of resources
+# Proof of resource
 
 Proof of storage in the SAFE Network uses a mechanism similar to a [zero knowledge proof](http://en.wikipedia.org/wiki/Zero-knowledge_proof). In this case the checking mechanism does not require to know the content of any data to be checked, but must know the data is in fact held and held in a manner that is accurate.
 
@@ -11,3 +11,7 @@ The proof of resources follows a series steps.
 5. If any Vault returns a different result then it is believed compromised and de-ranked
 
 This mechanism is triggered on Get requests and during account transfers. It is non-deterministic and randomised by use by users. It is considered to be secure and uses zero knowledge, not to conceal content (as anyone can ask for any data), but to ensure any data which is contaminated is not required to be transferred.
+
+Here is an overview of the proof of resource process.
+
+![Figure 1-2](./img/por-diagram.png)
