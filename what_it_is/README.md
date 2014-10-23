@@ -1,9 +1,9 @@
 #What it is
 The SAFE Network is a secure and fully decentralised data management service. The network is made up from the unused computer resources provided by the individual network users.
 
-Each user of the SAFE Network provides a small part of their computer resources; hard-drive storage, CPU power, and bandwidth. This local resource is called a vault. Each vault is cryptographically secure and connects to other vaults throughout the network.
+Each user of the SAFE Network provides a small part of their computer resources; hard-drive storage, CPU power, and bandwidth. This local resource is called a Vault. Each Vault is cryptographically secure and connects to other Vaults throughout the network.
 
-The user's data is encrypted and broken up into chunks. These chunks are then distributed around other vaults in the network. At no point do any of the other vaults know anything about the data they have been asked to store other than anonymous network address information.
+The user's data is encrypted and broken up into chunks. These chunks are then distributed around other Vaults in the network. At no point do any of the other Vaults know anything about the data they have been asked to store other than anonymous network address information.
 
 The result of the encryption and network-wide distribution of information it is a highly secure and private data management and communication experience for all users.
 
