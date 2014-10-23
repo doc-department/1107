@@ -6,7 +6,6 @@
    * [Apps and programs on the SAFE Network](what_it_is/apps_and_programs_on_the_safe_network.md)
    * [Accessing the SAFE Network](what_it_is/costs_of_using_the_safe_network.md)
    * [Vaults](what_it_is/vaults.md)
-   * [MaidSafe client](what_it_is/maidsafe_client.md)
    * [Safecoins](what_it_is/safecoins.md)
    * [Wallets](what_it_is/wallets.md)
 * [How it works](how_it_works/README.md)
