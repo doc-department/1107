@@ -14,4 +14,4 @@ This mechanism is triggered on Get requests and during account transfers. It is 
 
 Here is an overview of the proof of resource process.
 
-![Proof of resource figure](/img/por-diagram.png)
+![Proof of resource figure](./img/por-diagram.png)
