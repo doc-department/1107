@@ -16,7 +16,3 @@ The SAFE Network uses [data deduplication](http://en.wikipedia.org/wiki/Data_ded
 Here is an overview of the self encryption process.
 
 ![Figure 1-1](./img/self-encryption.png)
-
-
-
-
