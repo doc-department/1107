@@ -32,6 +32,7 @@
 * [How to use it](how_to_use_it/README.md)
    * [A Farmer](how_to_use_it/farmers.md)
    * [An App Builder](how_to_use_it/app_devs.md)
+   * [A Core Developer](how_to_use_it/a_core_developer.md)
 * [Get involved](get_involved/README.md)
 * [Libraries](detail/README.md)
    * [Common](detail/Common.md)
