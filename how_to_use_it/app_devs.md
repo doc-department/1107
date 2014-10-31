@@ -2,7 +2,7 @@
 
 As an App Builder, developers create apps which run on the SAFE Network using the open source MaidSafe API, making use of the resources provided by Farmers on the network.  In doing so, they are rewarded with safecoins in proportion to how much the application is used.
 
-A typical user app is demonstrated [here](http://blog.maidsafe.net/2014/04/21/safe-network-sample-app-features/).
+An example app is available [here](http://blog.maidsafe.net/2014/04/21/safe-network-sample-app-features/).
 
 Due to the open source libraries provided in the API, developing an app is low cost and supported by the development community. The nature of the SAFE Network ensures anonymity, crytographic security and privacy to all users of the app by design, and also provides decentralized resources which react in real-time to the demand from the app users.
 
