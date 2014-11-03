@@ -14,6 +14,8 @@ The Transaction manager, another Vault persona, handles all the safecoin transac
 
 The transaction is open and is read-only to public. This allows an upper layer Third Party Transaction validators to validate that the transaction is happening or completed.
 
+[Click here to see a video that explains what happens when someone makes a safecoin transaction](https://www.youtube.com/watch?v=Bs95jLq_cy0)
+
 ##An example safecoin transaction
 The following is an example of a transfer of credit from **Alice** to **Bob**.
 

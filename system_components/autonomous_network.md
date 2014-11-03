@@ -11,6 +11,8 @@ The requirements of the resilient SAFE Network are as follows:
 * A mechanism of resource measurement and reward
 * Dealing with very high levels of churn (computers going off and on, potentially staying off)
 * Removing any administration requirement
+* The ability to deal with very high levels of churn (computers going off and on, potentially staying off)
+* The power to remove any administrative requirement
 
-By meeting all these requirements the SAFE Network is able to support a network that can adapt quickly and automatically to hostile network environments.
+By meeting all these requirements the SAFE Network is able to support a network that can adapt quickly and automatically to hostile network environments, such as the Internet.
 
