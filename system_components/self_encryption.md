@@ -3,7 +3,7 @@ Security of a user's data is critical in the SAFE Network and this is, in part, 
 
 Self encryption is used to mix up and encrypt data before it is sent out to the SAFE Network. This process is automatic and happens instantaneously.
 
-As data is saved to a user's virtual hard-drive, it is broken up into at least three chunks. A data map is created and for each chunk a hash code (a unique digital finger print) is created and written to the data map. For additional security the data map is also run through an encryption process.
+As data is saved to a user's virtual hard-drive, it is broken up into at least three chunks. A data map is created and for each chunk a hash code (a unique digital finger print) is created and written to the data map. For additional security the data map is also run through this self encryption process.
 
 Each chunk is then encrypted to create random, non-repeating data. Finally, combined with the original hash codes, the chunks are further encrypted. The output hash code of each chunk is then added to the data map.
 

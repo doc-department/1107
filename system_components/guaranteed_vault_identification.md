@@ -1,7 +1,7 @@
 # Guaranteed Vault identification
 Vault identification is essential if Vaults are to be responsible in a measured way for resource management.
 
-Without identification any Vault could impersonate another. There are known methods to identify digital identities, such as a certificate authority (such as Verisign) or in some cases a web of trust. As this network has no servers, no human involvement, no trust and trustless, neither of these options are suitable.
+Without identification any Vault could impersonate another. There are known methods to identify digital identities, such as a certificate authority (such as Verisign) or in some cases a web of trust. As this network has no servers, no human involvement and is completely trust less, these options are not suitable.
 
 The Vault identification process involves creating two key pairs. One key pair is a revocation key and is used only to create and invalidate a real key.
 

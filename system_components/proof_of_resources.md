@@ -1,6 +1,16 @@
 # Proof of resource
+Proof of resource enables the network to validate actions or services using a mathematically verifiable mechanism.
 
-Proof of storage in the SAFE Network uses a mechanism similar to a [zero knowledge proof](http://en.wikipedia.org/wiki/Zero-knowledge_proof). In this case the checking mechanism does not require to know the content of any data to be checked, but must know the data is in fact held and held in a manner that is accurate.
+This process measures a Vaults ability to store and retrieve data chunks. This depends on the following user's compter criteria:
+
+* CPU speed
+* Bandwidth availability
+* Disk space
+* On-line time
+
+This allows the proof to be a useful, measurable and an immediately verifiable entity. Proof of resource is a very efficient mechanism with zero transaction fees.
+
+Proof of resource in the SAFE Network uses a mechanism similar to a [zero knowledge proof](http://en.wikipedia.org/wiki/Zero-knowledge_proof). In this case the checking mechanism does not require to know the content of any data to be checked, but must know the data is in fact held and held in a manner that is accurate.
 
 The proof of resource follows a series steps.
 

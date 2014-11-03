@@ -8,5 +8,3 @@ In terms of data loss, the replicated copies of data are spread across the netwo
 In terms of security, network churn prevents attacks as the point of access is constantly moving.
 
 As the network re-configures quickly on network churn events, the shape of the network alters around any data.
-
-As the network grows this churn provides even greater security as the Vaults close to data are altering faster.
