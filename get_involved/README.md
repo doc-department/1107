@@ -1,17 +1,20 @@
 # Get involved
 
-The following provides information on where to go if you want to get involved.
+The following links provide information on where to go if you want to get involved.
 
 * [MaidSafe.net](http://www.maidsafe.net)<br/>
 The company coordinating the development and launch of the SAFE Network.
+
+* [Contacting MaidSafe](http://maidsafe.net/contact)<br />
+Get in touch with MaidSafe.
 
 * [The MaidSafe YouTube Channel](https://www.youtube.com/channel/UChDck5R_C9i6XTrS66tbwOw)<br/>
 A large selection of videos about the SAFE Network and how it works.
 
 
-### Core Developer and App Builder links
+### Core Developer and App Builder
 
-The following provides more information if you are a Core Developer or an App Builder.
+The following links provide more information if you are a Core Developer or an App Builder.
 
 * [Github](https://github.com/orgs/maidsafe)<br/>
 All the GitHub repositories for the SAFE Network.
