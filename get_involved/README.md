@@ -16,7 +16,7 @@ A large selection of videos about the SAFE Network and how it works.
 
 The following links provide more information if you are a Core Developer or an App Builder.
 
-* [Github](https://github.com/orgs/maidsafe)<br/>
+* [GitHub](https://github.com/orgs/maidsafe)<br/>
 All the GitHub repositories for the SAFE Network.
 
 * [Developer wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
@@ -29,7 +29,7 @@ The current list of bugs and tasks that are part of the SAFE Network development
 A community run resource for questions, debate and research into all aspects of the SAFE Network.
 
 ###White papers
-Here are some technical white papers explaining various parts of the SAFE Network
+Here are some technical white papers explaining various parts of the SAFE Network.
 
 * [AutonomousNetwork](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/AutonomousNetwork.pdf?raw=true)
 * [Distributed File System ](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedFileSystem.pdf?raw=true)
