@@ -6,7 +6,7 @@ It’s an acronym: Massive Array of Internet Disks, Secure Access For Everyone.
 
 ### Does MaidSafe require continuous Internet connection from all participants?
 
-No, the network will rate each connection type and adjust for the resources it provides, in order to account for unavailability (through powering off or device failure). It's not a problem to be disconnected for shorter periods, however. If your node is unavailable for longer periods it will negatively impact on the service you receive from the network.
+No, the SAFE Network will rate each connection type and adjust for the resources it provides, in order to account for unavailability (through powering off or device failure). It's not a problem to be disconnected for shorter periods, however. If your node is unavailable for longer periods it will negatively impact on the service you receive from the network.
 
 ### What kind of research and validation has been carried out to affirm the the SAFE network will live up to the claims?
 
@@ -14,9 +14,9 @@ With such a radical solution, validation is extremely important. MaidSafe's tech
 
 Furthermore, a fully decentralised test network is now up and running, with 200 nodes spread across 3 continents.
 
-### Who owns the SAFE network?
+### Who owns the SAFE Network?
 
-We all do! The SAFE network is an Open Source resource there for all users of the Internet. The network is completely anonymous, secure and aims to repel human intervention of any kind; it cannot be controlled or 'owned'. We feel very strongly about this and have written a [blog post](http://blog.maidsafe.net/2014/02/07/owning-the-network/) on the subject.
+We all do! The SAFE Network is an Open Source resource there for all users of the Internet. The network is completely anonymous, secure and aims to repel human intervention of any kind; it cannot be controlled or 'owned'. We feel very strongly about this and have written a [blog post](http://blog.maidsafe.net/2014/02/07/owning-the-network/) on the subject.
 
 ###A truly autonomous distributed network shouldn't need patents to protect it, right?
 
@@ -28,17 +28,17 @@ Our papers, patents and design documents describe crypto currencies being crucia
 
 ###The web as it is needs no gatekeeper, shouldn't your system be designed this way as well?
 
-We agree that the Internet should never have a gate keeper and we don't intend to start, that is why all our code is Open Source and we have transferred ownership to all the people of the world. The SAFE network is also completely free from human intervention (the weakest and most corruptible part of any system), relying totally on maths and logic.
+We agree that the Internet should never have a gate keeper and we don't intend to start, that is why all our code is Open Source and we have transferred ownership to all the people of the world. The SAFE Network is also completely free from human intervention (the weakest and most corruptible part of any system), relying totally on maths and logic.
 
-### What does decentralised mean in SAFE
+### What does decentralised mean in SAFE?
 
-In project SAFE and in particular the MaidSafe approach is that decentralised means fully decentralised. This term is used extensively in the tech community, for the SAFE core network decentralised means:
+In project SAFE, and in particular the MaidSafe approach is that decentralised means fully decentralised. This term is used extensively in the tech community. For the SAFE core network decentralised means:
 
 1. No servers at all
-2. No information from any server infrastructure (no DNS, no Time servers...etc...)
+2. No information from any server infrastructure (no DNS, no time servers...etc...)
 3. No connection to any server based networks
 4. No centralised data structures across nodes
-5. No controling party (or parties)
+5. No controlling party (or parties)
 6. Zero control by humans for administration of data access
 6. Fully inclusive (no ability to ban people or apply barriers to basic network access)
 7. Borderless network; no borders or controls over network reach
