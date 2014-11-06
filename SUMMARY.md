@@ -47,5 +47,5 @@
 * [FAQs](faqs/README.md)
    * [General](faqs/general.md)
    * [Developers](faqs/developers.md)
-   * [Safecoin](faqs/safecoin.md)
+   * [Safecoins](faqs/safecoin.md)
 

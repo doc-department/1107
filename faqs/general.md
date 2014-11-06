@@ -31,8 +31,7 @@ Our papers, patents and design documents describe crypto currencies being crucia
 We agree that the Internet should never have a gate keeper and we don't intend to start, that is why all our code is Open Source and we have transferred ownership to all the people of the world. The SAFE Network is also completely free from human intervention (the weakest and most corruptible part of any system), relying totally on maths and logic.
 
 ### What does decentralised mean in SAFE?
-
-In project SAFE, and in particular the MaidSafe approach is that decentralised means fully decentralised. This term is used extensively in the tech community. For the SAFE core network decentralised means:
+The SAFE Network, and in particular the MaidSafe approach is that decentralised means fully decentralised. This term is used extensively in the tech community. For the SAFE Network decentralised means the following:
 
 1. No servers at all
 2. No information from any server infrastructure (no DNS, no time servers...etc...)
