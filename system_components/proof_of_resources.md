@@ -1,7 +1,7 @@
 # Proof of resource
 Proof of resource enables the network to validate actions or services using a mathematically verifiable mechanism.
 
-This process measures a Vaults ability to store and retrieve data chunks. This depends on the following user's compter criteria:
+This process measures a Vaults ability to store and retrieve data chunks. This depends on the following user's computer criteria:
 
 * CPU speed
 * Bandwidth availability

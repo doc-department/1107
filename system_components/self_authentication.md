@@ -6,7 +6,7 @@ To achieve this the authentication privileges (login token) have to be stored on
 
 A user creates their own key (K) and password (W). A [salt][wikipedia-salt-crypto] (S) is derived (in a repeatable way) from the key and password.
 
-Then to generate a unique identifier, a hash is created from the concatenated keyword and the salt, H(U + S).
+Then to generate a unique identifier, a hash is created from the concatenated keyword and the salt, H(K + S).
 
 A Password Based Key Derivation File (PBKDF2) is used to strengthen the password. This is required as user selected passwords are commonly weak.
 

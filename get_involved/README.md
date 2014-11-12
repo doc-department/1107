@@ -22,7 +22,7 @@ All the GitHub repositories for the SAFE Network.
 * [Developer wiki](https://github.com/maidsafe/MaidSafe/wiki)<br/>
 The GitHub repository that provides details of the open source libraries.
 
-* [Developer task list](https://www.pivotaltracker.com/n/projects/852817)<br />
+* [Developer task list](https://maidsafe.atlassian.net/secure/Dashboard.jspa)<br />
 The current list of bugs and tasks that are part of the SAFE Network development.
 
 * [maidsafe.org](https://www.maidsafe.org/)<br />
@@ -36,3 +36,4 @@ Here are some technical white papers explaining various parts of the SAFE Networ
 * [Self Authentication](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/SelfAuthentication.pdf?raw=true)
 * [Distributed Hash Table](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/MaidSafeDistributedHashTable.pdf?raw=true)
 * [DHT based NAT traversal](https://github.com/maidsafe/MaidSafe/wiki/unpublished_papers/DHTbasedNATTraversal.pdf?raw=true)
+* [The SAFE Network a New, Decentralised Internet](http://maidsafe.net/docs/SAFEnetwork.pdf)
