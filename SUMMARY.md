@@ -22,7 +22,6 @@
    * [Efficient - Self authentication](system_components/self_authentication.md)
    * [Vaults](how_it_works/vault.md)
    * [Safecoin](how_it_works/safecoin.md)
-       * [Safecoin requests and roles](how_it_works/safecoin_requests_and_roles.md)
    * [Wallet](how_it_works/wallet.md)
    * [Securing the SAFE Network](attacks/README.md)
        * [ISP simulates network](attacks/isp_simulates_network.md)
