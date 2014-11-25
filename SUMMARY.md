@@ -21,7 +21,7 @@
        * [Remove administration](system_components/remove_administration.md)
    * [Efficient - Self authentication](system_components/self_authentication.md)
    * [Vaults](how_it_works/vault.md)
-   * [Safecoin](how_it_works/safecoin.md)
+   * [Safecoins](how_it_works/safecoin.md)
    * [Wallet](how_it_works/wallet.md)
    * [Securing the SAFE Network](attacks/README.md)
        * [ISP simulates network](attacks/isp_simulates_network.md)
@@ -45,6 +45,8 @@
        * [Vault](detail/Vault.md)
 * [FAQs](faqs/README.md)
    * [General](faqs/general.md)
+       * [Infrastructure](faqs/infrastructure.md)
+       * [The SAFE Network](faqs/the_safe_network.md)
    * [Developers](faqs/developers.md)
    * [Safecoins](faqs/safecoin.md)
 

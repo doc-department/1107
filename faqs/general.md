@@ -4,15 +4,6 @@
 
 It’s an acronym: Massive Array of Internet Disks, Secure Access For Everyone.
 
-### Does MaidSafe require continuous Internet connection from all participants?
-
-No, the SAFE Network will rate each connection type and adjust for the resources it provides, in order to account for unavailability (through powering off or device failure). It's not a problem to be disconnected for shorter periods, however. If your node is unavailable for longer periods it will negatively impact on the service you receive from the network.
-
-### What kind of research and validation has been carried out to affirm the the SAFE network will live up to the claims?
-
-With such a radical solution, validation is extremely important. MaidSafe's technology has been peer reviewed with papers published and presented at the Wireless World Research Forum and the IEEE Computer Society. During development, MaidSafe has engaged with Scotland's leading technical Universities; Stirling, Strathclyde, St Andrews and the University of Abertay. Furthermore, MaidSafe's founder, David Irvine, has showcased the company's technology at the Google Scalability conference and at the British Computer Society's (Scotland) 50th Anniversary Christmas lecture.
-
-Furthermore, a fully decentralised test network is now up and running, with 200 nodes spread across 3 continents.
 
 ### Who owns the SAFE Network?
 
@@ -25,20 +16,3 @@ Our patents exist in a purely defensive capacity, to protect MaidSafe and the de
 ###MaidSafe technology is nothing new; are you just throwing up marketing hype around it then mentioning Bitcoin?
 
 Our papers, patents and design documents describe crypto currencies being crucial to a distributed network (otherwise identity leaks are inevitable). They're all available online with early design specifications (such as Perpetual Coin) and were published in 2006, as were many of our initial patents.
-
-###The web as it is needs no gatekeeper, shouldn't your system be designed this way as well?
-
-We agree that the Internet should never have a gate keeper and we don't intend to start, that is why all our code is Open Source and we have transferred ownership to all the people of the world. The SAFE Network is also completely free from human intervention (the weakest and most corruptible part of any system), relying totally on maths and logic.
-
-### What does decentralised mean in SAFE?
-The SAFE Network, and in particular the MaidSafe approach is that decentralised means fully decentralised. This term is used extensively in the tech community. For the SAFE Network decentralised means the following:
-
-1. No servers at all
-2. No information from any server infrastructure (no DNS, no time servers...etc...)
-3. No connection to any server based networks
-4. No centralised data structures across nodes
-5. No controlling party (or parties)
-6. Zero control by humans for administration of data access
-6. Fully inclusive (no ability to ban people or apply barriers to basic network access)
-7. Borderless network; no borders or controls over network reach
-
