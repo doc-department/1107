@@ -1,18 +1,20 @@
 #Safecoins
 
-Safecoin can be earned, traded or purchased. The value of safecoins is determined by the demand for them.
+Safecoins can be earned, traded or purchased. The value of safecoins is determined by the demand for them.
 
-Safecoins are used to access services on the SAFE Network. This encourages constant reuse which results in increasing demand for a finite resource. As a result the value of the safecoins increases over time.
+Safecoins are used to access services on the SAFE Network. This encourages constant reuse which results in increasing demand for a finite resource. As a result, the value of the safecoins increases over time.
 
-While the coins themselves increase in value, the amount of network services (resources) they buy also increases. This is managed by the Proof of Resource algorithm.
+While the coins themselves increase in value, the amount of network services (resources) they buy also increases.
 
 
 ## Safecoin transfer mechanism
-On the SAFE Network, Vaults assume various personas or roles, depending on the requests they receive.  For example, the Data manager persona is responsible for managing the integrity and availability of a given piece of data on the network.
+On the SAFE Network, Vaults assume various [personas or roles](../vault.html), depending on the requests they receive.  For example, the Data manager persona is responsible for managing the integrity and availability of a given piece of data on the network.
 
 The Transaction manager, another Vault persona, handles all the safecoin transactions. The Transaction manager is responsible for the logic that enables transactions to be completed. A Transaction manager group is a trusted group of Vaults which are closest to any given transaction identity.
 
 The transaction is open and is read-only to public. This allows an upper layer Third Party Transaction validators to validate that the transaction is happening or completed.
+
+[Click here to see a video that explains what happens when someone makes a safecoin transaction](https://www.youtube.com/watch?v=Bs95jLq_cy0)
 
 ##An example safecoin transaction
 The following is an example of a transfer of credit from **Alice** to **Bob**.

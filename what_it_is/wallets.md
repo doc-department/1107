@@ -5,4 +5,4 @@ An App Builder is a user that creates applications that can be used on the SAFE 
 
 A user's wallet is created when they join the SAFE Network.
 
-The wallet is part of the user's Vault so correspondingly it is encrypted and distributed around other vaults in the network. This means that a user's wallet can be accessed from any device connected to the SAFE Network. Also, because data in the wallet is cryptographically encoded, the contents of the wallet are secure and can not be changed or deleted.
+The wallet is part of the user's private data so correspondingly it is encrypted and distributed around other Vaults in the network. This means that a user's wallet can be accessed from any device connected to the SAFE Network. Also, because data in the wallet is cryptographically encoded, the contents of the wallet are secure and can not be changed or deleted.

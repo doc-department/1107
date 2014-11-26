@@ -5,7 +5,7 @@ Each user of the SAFE Network provides a small part of their computer resources;
 
 The user's data is encrypted and broken up into chunks. These chunks are then distributed around other Vaults in the network. At no point do any of the other Vaults know anything about the data they have been asked to store other than anonymous network address information.
 
-The result of the encryption and network-wide distribution of information it is a highly secure and private data management and communication experience for all users.
+The result of the encryption and network-wide distribution of information is a highly secure and private data management and communication experience for all users.
 
 The SAFE Network also supports applications and programs that can be accessed by network users. These applications may be free to use or paid for by using safecoins.
 

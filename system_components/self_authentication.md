@@ -4,9 +4,9 @@ The SAFE Network supports self authentication. This is a mechanism that enables 
 
 To achieve this the authentication privileges (login token) have to be stored on the SAFE Network as part of the self authentication process.
 
-A user creates their own key (K) and password (W). A [salt](http://en.wikipedia.org/wiki/Salt_(cryptography) (S) is derived (in a repeatable way) from K and W.
+A user creates their own key (K) and password (W). A [salt][wikipedia-salt-crypto] (S) is derived (in a repeatable way) from the key and password.
 
-Then to generate a unique identifier, a hash is created from the concatenated keyword and the salt, H(U + S).
+Then to generate a unique identifier, a hash is created from the concatenated keyword and the salt, H(K + S).
 
 A Password Based Key Derivation File (PBKDF2) is used to strengthen the password. This is required as user selected passwords are commonly weak.
 
@@ -16,7 +16,7 @@ Finally the encrypted access permission are stored on the SAFE Network using the
 
 Self authentication relies on a system where a Vault can create a unique key, to store a value in the SAFE Network. The value stored with this key should contain an encrypted passport to data.
 
-This passport may be cryptographically secure keys and/or a list of other keys to make use of the information to be stored or shared.
+This passport contains cryptographically secure keys and/or a list of other keys to make use of the information to be stored or shared.
 
 The location of this initial key is masked or at least not obvious in the SAFE Network. This approach is the basis for self authentication and is extended into the SAFE Network to allow access to data to be stored publicly and with no additional requirement such as firewalls or access controls.
 
@@ -28,3 +28,4 @@ In the SAFE Network as a user requests a login token, they are provided with one
 
 The login token is only useful for authentication after it is validated against the password and user details, which are never sent out onto the SAFE Network.
 
+[wikipedia-salt-crypto]: http://en.wikipedia.org/wiki/Salt_(cryptography)
