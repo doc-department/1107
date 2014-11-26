@@ -1,6 +1,6 @@
 # The SAFE Network
 
-These FAQs relate to extra details about the SAFE Network.
+These FAQs relate to additional details about the SAFE Network.
 
 
 ### What kind of research and validation has been carried out to affirm the SAFE Network will live up to the claims?
@@ -16,7 +16,7 @@ A fully decentralised test network is now up and running, with 200 nodes spread 
 We agree that the Internet should never have a gatekeeper and we don't intend to start, that is why all our code is Open Source and we have transferred ownership to all the people of the world. The SAFE Network is also completely free from human intervention (the weakest and most corruptible part of any system), relying totally on maths and logic.
 
 
-###What are the benefits of using the Safe network?
+###What are the benefits of using the Safe Network?
 
 The benefits of using the SAFE Network are numerous and for end users these are as follows:
 * Private and secure communications
@@ -47,11 +47,11 @@ Anyone will be able to write their own wrappers to add support for a new languag
 
 ###Can MaidSafe clients host on different operating systems access the same vaults?
 
-Yes, the SAFE Network and client are completely cross platform.
+Yes, the SAFE Network and client are completely supported cross-platform.
 
 
 ###What kind of equipment will be required for dedicated farming?
 
 At this point we don’t know what type of equipment will offer the most efficient farming and only through testing of the live network will we know definitively. The farming algorithms within the network are designed to favour small commodity devices to avoid some of the centralising aspects experienced within the Bitcoin mining community.
 
-Farming is discussed quite frequently on our forum (www.maidsafe.org) and many of the community members are experimenting with single board computers that are powerful, yet have very low power consumption, well suited to being left on 24/7.
+Farming is discussed quite frequently on our forum [www.maidsafe.org](http://www.maidsafe.org) and many of the community members are experimenting with single board computers that are powerful, yet have very low power consumption, well suited to being left on 24/7.

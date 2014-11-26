@@ -1,6 +1,6 @@
 # Infrastructure
 
-These FAQs relate to questions specific to how the SAFE Network works.
+These FAQs relate to questions the components and processes that make the network function.
 
 
 ### Does the SAFE Network require continuous Internet connection from all participants?
