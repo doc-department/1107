@@ -8,7 +8,7 @@ Safecoins are another type of data and it has PUT and GET requests defined for i
 
 The PUT request for safecoins has a "no duplication allowed" property. This means that if there is already a safecoin with the same name (first 32 bits), the PUT request is rejected. This check is handled by the Data manager receiving the request.
 
-An EXCHANGE allows an approved requester to update the details of the safecoin but only if it follows the necessary rules.
+An EXCHANGE allows a requester to update the details of the safecoin but only if it follows the necessary rules.
 
 * Owner is approved by the majority of 3rd party Vaults (escrow).
 * Owner can (previous and current owners considered as approved themselves) update all fields.

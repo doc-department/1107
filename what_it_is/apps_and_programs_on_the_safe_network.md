@@ -16,4 +16,4 @@ Here are some examples of the type of apps that can be used on the SAFE Network.
 
 The apps and programs contain cryptographically secured key pairs and can use these to automatically sign requests for session management or membership of any network service.
 
-For example, a website with membership can present a join button and clicking that would sign an authority and allow access in the future.
+For example, a website with membership can present a join button and clicking that would automatically sign an authority and allow access in the future.
